@@ -93,8 +93,6 @@ This project uses **Deep Learning models built in TensorFlow** to predict the du
 
 ---
 
-## 🎁 Extra Credit (Optional)
-
 ### 🔥 PyTorch Model
 
 - Recreated the best-performing DNN in **PyTorch**
